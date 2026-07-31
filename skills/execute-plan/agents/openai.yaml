@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execute Task Plan"
+  short_description: "Delegate and verify every task in a plan"
+  default_prompt: "Use $execute-task-plan with /goal to complete and verify every item in TODO.md."
