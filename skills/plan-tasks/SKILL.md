@@ -5,6 +5,5 @@ description: Create or refresh a repository task plan from the full conversation
 
 # Plan Tasks
 
-Provide an exhaustive list of recommendations to address everything we have discussed. Each item should be broken down into specific task items and definition of done. 
-Save it to a TODO.md file if user does not specificy a specific file. The user may optionally provide a specific file for you to save this plan to.
-
+Provide an exhaustive plan to address everything we have discussed. Each item should be broken down into specific task items and definition of done. 
+Save this plan to a PLAN.md document in the root of this project. If a PLAN.md already exists, overwrite it.
