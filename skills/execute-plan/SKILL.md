@@ -1,7 +1,6 @@
 ---
 name: execute-plan
-description: Execute an existing PLAN.md or task-plan document to completion through persistent goal tracking and sequential subagent delegation, with a separate reviewer verifying every implementation chunk. 
-Use when the user asks you to carry out, orchestrate, finish, or work through an entire PLAN.md or named plan.
+description: Execute an existing PLAN.md or task-plan document to completion through persistent goal tracking and sequential subagent delegation, with a separate reviewer verifying every implementation chunk. Use when the user asks you to carry out, orchestrate, finish, or work through an entire PLAN.md or named plan.
 ---
 
 # Execute Task Plan
