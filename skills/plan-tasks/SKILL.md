@@ -1,6 +1,7 @@
 ---
 name: plan-tasks
-description: Create or refresh a repository task plan from the full conversation and relevant project evidence. Use when the user asks for an exhaustive TODO.md, implementation plan, task breakdown, backlog, checklist, acceptance criteria, or definitions of done covering everything discussed.
+description: Create or refresh a repository task plan from the full conversation and relevant project evidence. Use when the user specifically asks for an exhaustive TODO.md, implementation plan, task breakdown, backlog, checklist, acceptance criteria, or definitions of done covering everything discussed put into a PLAN.md file.
+disable-model-invocation: true
 ---
 
 # Plan Tasks
