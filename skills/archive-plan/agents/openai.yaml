@@ -1,0 +1,3 @@
+interface:
+  display_name: "Archive Task Plan (better-planner)"
+  short_description: "Archive an existing task plan for future auditability."

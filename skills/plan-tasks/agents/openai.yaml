@@ -1,4 +1,3 @@
 interface:
-  display_name: "Plan Tasks"
+  display_name: "Plan Tasks (better-planner)"
   short_description: "Turn project discussion into a complete task plan"
-  default_prompt: "Use $plan-tasks to capture everything we have discussed in TODO.md with explicit definitions of done."

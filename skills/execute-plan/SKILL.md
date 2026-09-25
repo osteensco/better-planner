@@ -4,12 +4,11 @@ description: Execute an existing PLAN.md or task-plan document to completion thr
 ---
 
 # Execute Task Plan
-Take a look at PLAN.md. This provides all tasks we need to complete along with definition of dones. Divy up tasks in this document in chunks to sub agents, one at a time in a synchronous fashion. when
+Take a look at PLAN.md. This provides all tasks we need to complete along with definition of dones. Divy up tasks in this document in chunks to sub agents, one at a time in a synchronous fashion. When
 they report work has been completed to you, spawn another sub agent tasked with checking their work explicitly. If you need to compact your context remember these instructions first and formost. The point
-of this sub agent approach is to preserve your context as the orchestrator. continue delegating chunks of work out to sub agents until the ENTIRETY of PLAN.md is completed and verified. After everything has
+of this sub agent approach is to preserve your context as the orchestrator. Continue delegating chunks of work out to sub agents until the ENTIRETY of PLAN.md is completed and verified. After everything has
 been completed, spawn another sub agent to verify the completion of everything within PLAN.md. If there are any identified gaps, follow the same implementation sub agent -> verifier sub agent pattern to
 address them.
-
 
 # Objective:
 Complete and verify every task in PLAN.md while preserving the orchestrator's context.
